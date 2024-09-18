@@ -1,0 +1,15 @@
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\bin\Release\PAC Man Game WPF MOO ICT.exe.config
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\bin\Release\PAC Man Game WPF MOO ICT.exe
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\bin\Release\PAC Man Game WPF MOO ICT.pdb
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.csproj.AssemblyReference.cache
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\MainWindow.g.cs
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\App.g.cs
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT_MarkupCompile.cache
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT_MarkupCompile.lref
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\MainWindow.baml
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.g.resources
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC_Man_Game_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.csproj.GenerateResource.cache
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.exe
+C:\Users\Karakurt\Desktop\Oleh Pac-Man\obj\Release\PAC Man Game WPF MOO ICT.pdb
